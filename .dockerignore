@@ -1,2 +1,7 @@
 node_modules
-app/node_modules
+dist
+.git
+.gitignore
+.env
+Dockerfile
+docker-compose.yml
